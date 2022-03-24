@@ -7,70 +7,70 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 880
+      end: 948
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   2b10b9ab5dc44d70ac63fbf90962709b:
     imgnum: 172
     reference: ''
     span:
-      start: 883
-      end: 2635
+      start: 950
+      end: 2699
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   2d5e8e16fbae4d1984615d04343dbb25:
     imgnum: 173
     reference: ''
     span:
-      start: 2638
-      end: 4311
+      start: 2701
+      end: 4372
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   0dbe694afb5b415493cfc9adbc8b37a1:
     imgnum: 174
     reference: ''
     span:
-      start: 4314
-      end: 5788
+      start: 4374
+      end: 5847
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   18d8a3284f194289b554b95deb4bfee7:
     imgnum: 175
     reference: ''
     span:
-      start: 5791
-      end: 7257
+      start: 5849
+      end: 7310
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   cf468cbcc74c4ecf85c6b28d09a40a5e:
     imgnum: 176
     reference: ''
     span:
-      start: 7260
-      end: 8681
+      start: 7312
+      end: 8731
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   0154552d688344ac99a5401a01621e53:
     imgnum: 177
     reference: ''
     span:
-      start: 8684
-      end: 10169
+      start: 8733
+      end: 10220
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   5ecbdcb63f714e609bb3998d41af96d9:
     imgnum: 178
     reference: ''
     span:
-      start: 10172
-      end: 11696
+      start: 10222
+      end: 11744
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   0a60f1c9167f4ccfb8add4823838107c:
     imgnum: 179
     reference: ''
     span:
-      start: 11699
-      end: 13216
+      start: 11746
+      end: 13260
     note_ref: f241b839dfb1497d8ffac2992e4ccca7
   f241b839dfb1497d8ffac2992e4ccca7:
     imgnum: 180
     reference: ''
     span:
-      start: 13219
-      end: 14347
+      start: 13262
+      end: 14389
 local_ids:
   66818f7ce29b4b4e94322e630933a14a: 200000
   2b10b9ab5dc44d70ac63fbf90962709b: 200001
