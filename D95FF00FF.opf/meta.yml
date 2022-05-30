@@ -1,0 +1,22 @@
+id: D95FF00FF
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-03-23T08:32:20+00:00'
+last_modified: '2022-05-30T07:04:20.523790+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    3fb4:
+      image_group_id: I1PD95892
+      title: གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་སྒྲུབ་ཐབས།
+      total_pages: 1464
+      order: 47
+      base_file: 3fb4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
